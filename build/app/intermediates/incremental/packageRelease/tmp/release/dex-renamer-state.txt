@@ -1,0 +1,4 @@
+#Sun Jun 11 13:42:08 ICT 2023
+base.0=D\:\\mad\\source code\\myapp\\clinic_demo\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

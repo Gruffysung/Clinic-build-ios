@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">717429453323-1q0bb3b50j7e5ghoss6h6jo562vqp9qs.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">717429453323</string>
+    <string name="google_api_key" translatable="false">AIzaSyBxjIK-d8PYxdDf-bGDLNpXwTpRSaZQ4bU</string>
+    <string name="google_app_id" translatable="false">1:717429453323:android:b7afe59582892cfa2f4d0e</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBxjIK-d8PYxdDf-bGDLNpXwTpRSaZQ4bU</string>
+    <string name="google_storage_bucket" translatable="false">clinic-5085c.appspot.com</string>
+    <string name="project_id" translatable="false">clinic-5085c</string>
+</resources>
